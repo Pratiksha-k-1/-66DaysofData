@@ -1,0 +1,17 @@
+Item_Type,Item_visiblity,Item_MRP,,,Item_Identifier,Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifier,Outlet_Establishment_Year,Outlet_Size,Outlet_Location_Type,Outlet_Type,Item_Outlet_Sales
+Fruits and Vegetables,84.40794562,178124.081,,,FDF39,14.85,1,0.019495051,Dairy,261.291,OUT013,1987,High,Tier 3,Supermarket Type1,10256.649
+Snack Foods,80.22026732,175433.9204,,,NCM05,6.825,0,0.059846975,Health and Hygiene,262.5226,OUT046,1997,Small,Tier 1,Supermarket Type1,9779.9362
+Household,55.8033047,135976.5254,,,FDK03,12.6,1,0.074338562,Dairy,255.5356,OUT017,2007,,Tier 2,Supermarket Type1,9664.7528
+Frozen Foods,56.19232457,118558.8814,,,FDK28,5.695,0,0.065960909,Frozen Foods,259.2646,OUT017,2007,,Tier 2,Supermarket Type1,9275.9256
+Dairy,49.39534921,101276.4596,,,FDA21,13.65,0,0.035930784,Snack Foods,184.4924,OUT013,1987,High,Tier 3,Supermarket Type1,9069.5276
+Canned,44.21592569,90706.727,,,FDY55,16.75,0,0.081485126,Fruits and Vegetables,258.0988,OUT045,2002,,Tier 2,Supermarket Type1,8994.958
+Baking Goods,44.8217062,81894.7364,,,FDT16,9.895,1,0.048761046,Frozen Foods,260.5278,OUT045,2002,,Tier 2,Supermarket Type1,8851.1452
+Health and Hygiene,28.71230947,68025.8388,,,FDD44,8.05,1,0.07884393,Fruits and Vegetables,257.0646,OUT017,2007,,Tier 2,Supermarket Type1,8760.5964
+Meat,26.47061971,59449.8638,,,FDR45,10.8,0,0.029001987,Snack Foods,238.6222,OUT045,2002,,Tier 2,Supermarket Type1,8604.7992
+Soft Drinks,28.46765028,58514.165,,,NCQ53,17.6,0,0.018905326,Health and Hygiene,234.659,OUT046,1997,Small,Tier 1,Supermarket Type1,8508.924
+Breads,16.63002957,35379.1198,,,,,,,,,,,,,,
+Hard Drinks,13.89770694,29334.6766,,,,,,,,,,,,,,
+Others,10.18073439,22451.8916,,,,,,,,,,,,,,
+Starchy Foods,9.999407477,21880.0274,,,,,,,,,,,,,,
+Breakfast,9.429531026,15596.6966,,,,,,,,,,,,,,
+Seafood,4.798469103,9077.87,,,,,,,,,,,,,,
